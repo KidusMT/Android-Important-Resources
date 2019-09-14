@@ -8,8 +8,9 @@ Scanning:
   * https://github.com/zxing/zxing
   
 Generating:
-  * https://www.mysamplecode.com/2012/09/android-generate-qr-code-using-zxing.html#comment-form_3020102673987308109
-  * https://github.com/zxing/zxing
+  * Blog for [sample code](https://www.mysamplecode.com/2012/09/android-generate-qr-code-using-zxing.html#comment-form_3020102673987308109)
+  * ZXing ("Zebra Crossing") [Repo](https://github.com/zxing/zxing)
+  * Sample [code](https://github.com/phishman3579/android-quick-response-code)
 
 ## SVG to XML Converter online
  * https://inloop.github.io/svg2android/
