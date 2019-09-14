@@ -16,6 +16,4 @@ Generating:
  
 ## Architectures 
  MVP:
-  1 Mindork 
-   * Github link -> https://github.com/MindorksOpenSource/android-mvp-architecture
-   * Website link -> https://mindorks.com/
+  * Mindork: [Github](https://github.com/MindorksOpenSource/android-mvp-architecture) and [Website](https://mindorks.com/)
