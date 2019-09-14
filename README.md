@@ -13,3 +13,9 @@ Generating:
 
 ## SVG to XML Converter online
  * https://inloop.github.io/svg2android/
+ 
+## Architectures 
+ MVP:
+  * Mindork 
+   - Github link -> https://github.com/MindorksOpenSource/android-mvp-architecture
+   - Website link -> https://mindorks.com/
