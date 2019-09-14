@@ -1,4 +1,4 @@
-ImportantMaterialsForAndroid
+Must Know open-source Android Resources 
 =======
 Best android materials link and resource websites and repos.
 
@@ -10,3 +10,6 @@ Scanning:
 Generating:
   * https://www.mysamplecode.com/2012/09/android-generate-qr-code-using-zxing.html#comment-form_3020102673987308109
   * https://github.com/zxing/zxing
+
+## SVG to XML Converter online
+ * https://inloop.github.io/svg2android/
