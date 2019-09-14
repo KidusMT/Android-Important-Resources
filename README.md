@@ -21,3 +21,7 @@ Generating:
 
 ## Android Patterns
  * https://unitid.nl/androidpatterns/
+
+## Android Printing
+ * github repos [android-printer](https://github.com/topics/android-printer)
+ * Android Developers [Documentation](https://developer.android.com/training/printing)
