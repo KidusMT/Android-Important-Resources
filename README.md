@@ -17,3 +17,6 @@ Generating:
 ## Architectures 
  MVP:
   * Mindork: [Github](https://github.com/MindorksOpenSource/android-mvp-architecture) and [Website](https://mindorks.com/)
+
+## Android Patterns
+ * https://unitid.nl/androidpatterns/
