@@ -26,5 +26,5 @@ Generating:
  * github repos [android-printer](https://github.com/topics/android-printer)
  * Android Developers [Documentation](https://developer.android.com/training/printing)
 
-## iCons for free
+## Icons for free
  * [Flaticon](https://www.flaticon.com/)
