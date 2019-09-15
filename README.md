@@ -13,7 +13,8 @@ Generating:
   * Sample [code](https://github.com/phishman3579/android-quick-response-code)
 
 ## SVG to XML Converter online
- * https://inloop.github.io/svg2android/
+ * [Free and works well](https://inloop.github.io/svg2android/)
+ * [Paid but better with some vectors](https://svg2vector.com/)
  
 ## Architectures 
  MVP:
