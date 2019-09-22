@@ -33,3 +33,6 @@ Generating:
 ## Time Picker
  * [Blog](https://www.codingdemos.com/android-timepicker-edittext/)
  * stackoverflow [style](https://stackoverflow.com/questions/11077530/how-to-change-the-default-color-of-datepicker-and-timepicker-dialog-in-android) [setting time when poping up](https://stackoverflow.com/questions/12494074/android-setting-time-in-time-picker-with-the-time-shown-in-text-view)
+ 
+ ## OpenID Authorization
+  * [AppAuth](https://github.com/openid/AppAuth-Android/)
