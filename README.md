@@ -44,7 +44,7 @@ Generating:
    ```java
    System.out.println(d.toDateMidnight().isEqual(e.toDateMidnight()));
    ```
-    or
+   or
     
    ```java
    System.out.println(d.withTimeAtStartOfDay().isEqual(e.withTimeAtStartOfDay()));
