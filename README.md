@@ -41,9 +41,14 @@ Generating:
   * [Joda-Time](https://github.com/dlew/joda-time-android) and [Documentation](https://www.joda.org/joda-time/userguide.html) and [Operations with JodaTime](https://www.mkyong.com/java/how-to-calculate-date-time-difference-in-java/)
   * Compareing two dates with JodaTime library from [stackOverflow](https://stackoverflow.com/questions/13764106/comparing-two-dates-using-joda-time) answer best answer from [JB Nizet](https://stackoverflow.com/users/571407/jb-nizet) or the code below
   
-   `System.out.println(d.toDateMidnight().isEqual(e.toDateMidnight()));`
+   ```java
+   System.out.println(d.toDateMidnight().isEqual(e.toDateMidnight()));
+   ```
     or
-   `System.out.println(d.withTimeAtStartOfDay().isEqual(e.withTimeAtStartOfDay()));`
+    
+   ```java
+   System.out.println(d.withTimeAtStartOfDay().isEqual(e.withTimeAtStartOfDay()));
+   ```
    
 ## 25 BEST Android Library collections blog
  * From [FreeCodeCamp](https://www.freecodecamp.org/news/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0/)
