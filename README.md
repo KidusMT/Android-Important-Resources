@@ -1,4 +1,4 @@
-Must Know Android Open-Source Resource Materials 
+Important Android Open-Source Resources and Blogs 
 =======
 Best android materials link and resource websites and repos.
 
