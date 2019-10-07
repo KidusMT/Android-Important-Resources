@@ -38,7 +38,7 @@ Generating:
   * [AppAuth](https://github.com/openid/AppAuth-Android/)
   
  ## Time Related 
-  * [Joda-Time](https://github.com/dlew/joda-time-android) and [Documentation](https://www.joda.org/joda-time/userguide.html) and [Operations with JodaTime](https://www.mkyong.com/java/how-to-calculate-date-time-difference-in-java/)
+  * [Joda-Time](https://github.com/dlew/joda-time-android) and [Documentation](https://www.joda.org/joda-time/userguide.html) and [Operations with JodaTime](https://www.mkyong.com/java/how-to-calculate-date-time-difference-in-java/) and many related [examples](https://www.programcreek.com/java-api-examples/?ClassName=joda&action=search&submit=Search)
   * Compareing two dates with JodaTime library from [stackOverflow](https://stackoverflow.com/questions/13764106/comparing-two-dates-using-joda-time) answer best answer from [JB Nizet](https://stackoverflow.com/users/571407/jb-nizet) or the code below
   
    ```java
