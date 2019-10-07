@@ -55,4 +55,4 @@ Generating:
  
 ## GreenDAO ORM database
  * [Documentation](http://greenrobot.org/greendao/documentation/) and [Best Practices](http://greenrobot.org/android/benchmarking-on-android/)
- * Updating Model Classes(Entity classes) from [stackoverflow from Pedro Okawa's Answer](https://stackoverflow.com/questions/13373170/greendao-schema-update-and-data-migration/30334668#30334668) and library on [github for updating](https://github.com/yuweiguocn/GreenDaoUpgradeHelper) or it you're using Mindorks starter follow this instration [STEP 7](https://blog.mindorks.com/powerful-android-orm-greendao-3-tutorial)
+ * Updating Model Classes(Entity classes) from [stackoverflow from Pedro Okawa's Answer](https://stackoverflow.com/questions/13373170/greendao-schema-update-and-data-migration/30334668#30334668) with [additional instructions](https://github.com/cyrilpillai/GreenDao-Migrator) and library on [github for updating](https://github.com/yuweiguocn/GreenDaoUpgradeHelper) or it you're using Mindorks starter follow this instration [STEP 7](https://blog.mindorks.com/powerful-android-orm-greendao-3-tutorial)
