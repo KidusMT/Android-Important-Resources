@@ -11,7 +11,9 @@ Generating:
   * Blog for [sample code](https://www.mysamplecode.com/2012/09/android-generate-qr-code-using-zxing.html#comment-form_3020102673987308109)
   * ZXing ("Zebra Crossing") [Repo](https://github.com/zxing/zxing)
   * Sample [code](https://github.com/phishman3579/android-quick-response-code)
-
+## Image compression for decreasing resource file size
+ * [Tinypng](https://tinypng.com/)
+ 
 ## SVG to XML Converter online
  * [Free and works well](https://inloop.github.io/svg2android/)
  * [Paid but better with some vectors](https://svg2vector.com/)
@@ -60,3 +62,4 @@ Generating:
  
  ## SnakBar Library
   * a very customized and elegant snackbar on [github](https://github.com/TonnyL/Light) from [Tonny](https://github.com/TonnyL)
+ 
