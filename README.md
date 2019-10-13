@@ -56,7 +56,7 @@ Generating:
  
 ## GreenDAO ORM database
  * [Documentation](http://greenrobot.org/greendao/documentation/) and [Best Practices](http://greenrobot.org/android/benchmarking-on-android/)
- * Updating Model Classes(Entity classes) from [stackoverflow from Pedro Okawa's Answer](https://stackoverflow.com/a/30334668/6021740) particularly [this answer](https://stackoverflow.com/a/38984100/6021740) with [additional instructions](https://github.com/cyrilpillai/GreenDao-Migrator) and library on [github for updating](https://github.com/yuweiguocn/GreenDaoUpgradeHelper) or it you're using Mindorks starter follow this instration [STEP 7](https://blog.mindorks.com/powerful-android-orm-greendao-3-tutorial) email [group on GreenDAO](https://groups.google.com/forum/#!forum/greendao) if you want to check more
+ * Updating Model Classes(Entity classes) from [stackoverflow from Pedro Okawa's Answer](https://stackoverflow.com/a/30334668/6021740) particularly [this answer](https://stackoverflow.com/a/38984100/6021740) with [additional instructions](https://github.com/cyrilpillai/GreenDao-Migrator) and library on [github for updating](https://github.com/yuweiguocn/GreenDaoUpgradeHelper) or it you're using Mindorks starter follow this instration [STEP 7](https://blog.mindorks.com/powerful-android-orm-greendao-3-tutorial) email [group on GreenDAO](https://groups.google.com/forum/#!forum/greendao) if you want to see implementation check [my blog about it](https://medium.com/@kidusmamuye/migration-with-greendao-android-8f940b5ef58d)
  
  ## SnakBar Library
-  * [github](https://github.com/TonnyL/Light) from [Tonny](https://github.com/TonnyL)
+  * a very customized and elegant snackbar on [github](https://github.com/TonnyL/Light) from [Tonny](https://github.com/TonnyL)
