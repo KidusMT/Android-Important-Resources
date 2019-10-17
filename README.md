@@ -52,6 +52,7 @@ Generating:
    ```java
    System.out.println(d.withTimeAtStartOfDay().isEqual(e.withTimeAtStartOfDay()));
    ```
+ * [SimpleDateFormats](https://docs.oracle.com/javase/10/docs/api/java/text/SimpleDateFormat.html)
    
 ## 25 BEST Android Library collections blog
  * From [FreeCodeCamp](https://www.freecodecamp.org/news/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0/)
@@ -65,4 +66,5 @@ Generating:
 
 ## int vs Integer -> most basic question
  * [wapper vs primitive classes](http://mindprod.com/jgloss/intvsinteger.html)
+ 
  
