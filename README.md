@@ -72,5 +72,5 @@ Generating:
  
  
 ## Handling Networking
- * Retrofit
+ * Retrofit - [official documentation](https://square.github.io/retrofit/) and best tutorials from [Future studio](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client)
  * handling custome error types on response: [woolha](https://www.woolha.com/tutorials/android-retrofit-2-custom-error-response-handling) - has a neat way of handling this issue
