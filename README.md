@@ -71,3 +71,6 @@ Generating:
  * [github](https://github.com/ChintanRathod/Fragment-Back-Stack) from [Chintan Rathod](https://github.com/ChintanRathod) ; if you're checking by cloning his project like I did, you're going to face gradle problem becuase of his project being done on eclipse. So check [this out](https://developer.android.com/studio/intro/migrate.html#import_eclipse_projects_to_android_studio) this is how I fixed it.
  
  
+## Handling Networking
+ * Retrofit
+ * handling custome error types on response: [woolha](https://www.woolha.com/tutorials/android-retrofit-2-custom-error-response-handling) - has a neat way of handling this issue
