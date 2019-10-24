@@ -76,3 +76,10 @@ Generating:
  * handling custome error types on response: [woolha](https://www.woolha.com/tutorials/android-retrofit-2-custom-error-response-handling) - has a neat way of handling this issue
  * [FAST ANDROID NETWORKING](https://github.com/amitshekhariitbhu/Fast-Android-Networking) from [AMIT SHEKHAR](https://github.com/amitshekhariitbhu) co-founder of [Mindorks](https://mindorks.com)
  * [Volley](https://developer.android.com/training/volley) from google. their [Github](https://github.com/google/volley)
+
+## TIPS ON UI/UX DESIGN - BY [Nick Babich](https://www.smashingmagazine.com/author/nickbabich/) 
+ * [A Comprehensive Guide To Mobile App Design](https://www.smashingmagazine.com/2018/02/comprehensive-guide-to-mobile-app-design/)
+ * [10 Do’s and Don’ts of Mobile UX Design](https://theblog.adobe.com/10-dos-donts-mobile-ux-design/)
+ * [You Are Not the User: The False-Consensus Effect](https://www.nngroup.com/articles/false-consensus/) - by [Raluca Budiu](https://www.nngroup.com/articles/author/raluca-budiu/)
+ * [Minimalistic Design With Large Impact: Functional Minimalism For Web Design](https://www.smashingmagazine.com/2017/10/functional-minimal-web-design/)
+ * 
