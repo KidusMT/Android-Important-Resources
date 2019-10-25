@@ -82,4 +82,5 @@ Generating:
  * [10 Do’s and Don’ts of Mobile UX Design](https://theblog.adobe.com/10-dos-donts-mobile-ux-design/)
  * [You Are Not the User: The False-Consensus Effect](https://www.nngroup.com/articles/false-consensus/) - by [Raluca Budiu](https://www.nngroup.com/articles/author/raluca-budiu/)
  * [Minimalistic Design With Large Impact: Functional Minimalism For Web Design](https://www.smashingmagazine.com/2017/10/functional-minimal-web-design/)
- * [https://theblog.adobe.com/11-screens-youll-find-many-successful-mobile-apps/](https://theblog.adobe.com/11-screens-youll-find-many-successful-mobile-apps/)
+ * [The 11 Screens You’ll Find in Many of the Most Successful Mobile Apps](https://theblog.adobe.com/11-screens-youll-find-many-successful-mobile-apps/)
+ * [Emotionally Intelligent Design Is The Future of Mobile UX](https://theblog.adobe.com/emotionally-intelligent-design-future-mobile-ux/)
