@@ -18,6 +18,9 @@ Generating:
  * [Free and works well](https://inloop.github.io/svg2android/)
  * [Paid but better with some vectors](https://svg2vector.com/)
  
+## PNG to SVG
+ * [website](https://www.pngtosvg.com/)
+ 
 ## Architectures 
  MVP:
   * Mindork: [Github](https://github.com/MindorksOpenSource/android-mvp-architecture) and [Website](https://mindorks.com/)
