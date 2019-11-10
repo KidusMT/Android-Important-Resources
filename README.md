@@ -87,3 +87,6 @@ Generating:
  * [Minimalistic Design With Large Impact: Functional Minimalism For Web Design](https://www.smashingmagazine.com/2017/10/functional-minimal-web-design/)
  * [The 11 Screens You’ll Find in Many of the Most Successful Mobile Apps](https://theblog.adobe.com/11-screens-youll-find-many-successful-mobile-apps/)
  * [Emotionally Intelligent Design Is The Future of Mobile UX](https://theblog.adobe.com/emotionally-intelligent-design-future-mobile-ux/)
+
+## File Browser Intents & Providers
+ * [a blog by Uncle Code Monkey](http://www.blackmoonit.com/android/filebrowser/intents/)
