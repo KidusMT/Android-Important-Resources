@@ -94,3 +94,6 @@ Generating:
  
 ## Excel sheet Generator
  * [POI library](https://www.javatpoint.com/apache-poi-merging-cells) and [blog](https://howtodoinjava.com/library/readingwriting-excel-files-in-java-poi-tutorial/) and on [read/write blog](https://www.viralpatel.net/java-read-write-excel-file-apache-poi/)
+ 
+## Sharing file with Intent
+ * [Sharing Content with Intents - blog - CODEPATH](https://guides.codepath.com/android/Sharing-Content-with-Intents) for file sharing NOTE [here](https://guides.codepath.com/android/Sharing-Content-with-Intents#sharing-files-with-api-24-or-higher)
