@@ -93,4 +93,4 @@ Generating:
  * [File manager on github](https://github.com/openintents/filemanager) and their [website](https://f-droid.org/packages/org.openintents.filemanager/)
  
 ## Excel sheet Generator
- * [POI library](https://www.javatpoint.com/apache-poi-merging-cells)
+ * [POI library](https://www.javatpoint.com/apache-poi-merging-cells) and [blog](https://howtodoinjava.com/library/readingwriting-excel-files-in-java-poi-tutorial/) and on [read/write blog](https://www.viralpatel.net/java-read-write-excel-file-apache-poi/)
