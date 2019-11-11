@@ -91,3 +91,6 @@ Generating:
 ## File Browser Intents & Providers
  * [a blog by Uncle Code Monkey](http://www.blackmoonit.com/android/filebrowser/intents/)
  * [File manager on github](https://github.com/openintents/filemanager) and their [website](https://f-droid.org/packages/org.openintents.filemanager/)
+ 
+## Excel sheet Generator
+ * [POI library](https://www.javatpoint.com/apache-poi-merging-cells)
