@@ -98,3 +98,5 @@ Generating:
 ## Sharing file with Intent
  * [Sharing Content with Intents - blog - CODEPATH](https://guides.codepath.com/android/Sharing-Content-with-Intents) for file sharing NOTE [here](https://guides.codepath.com/android/Sharing-Content-with-Intents#sharing-files-with-api-24-or-higher)
  * [CommonsWare's blog](https://commonsware.com/blog/2017/06/27/fileprovider-libraries.html)
+ * [nice question on stackoverflow regarding this topic](https://stackoverflow.com/questions/38200282/android-os-fileuriexposedexception-file-storage-emulated-0-test-txt-exposed)
+ * [another blog from Author: nuuneoi ](https://inthecheesefactory.com/blog/how-to-share-access-to-file-with-fileprovider-on-android-nougat/en)
