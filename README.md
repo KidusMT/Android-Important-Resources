@@ -97,3 +97,4 @@ Generating:
  
 ## Sharing file with Intent
  * [Sharing Content with Intents - blog - CODEPATH](https://guides.codepath.com/android/Sharing-Content-with-Intents) for file sharing NOTE [here](https://guides.codepath.com/android/Sharing-Content-with-Intents#sharing-files-with-api-24-or-higher)
+ * [commonsware's blog](https://commonsware.com/blog/2017/06/27/fileprovider-libraries.html)
