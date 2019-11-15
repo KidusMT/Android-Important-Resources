@@ -100,3 +100,5 @@ Generating:
  * [CommonsWare's blog](https://commonsware.com/blog/2017/06/27/fileprovider-libraries.html)
  * [nice question on stackoverflow regarding this topic](https://stackoverflow.com/questions/38200282/android-os-fileuriexposedexception-file-storage-emulated-0-test-txt-exposed)
  * [another blog from Author: nuuneoi ](https://inthecheesefactory.com/blog/how-to-share-access-to-file-with-fileprovider-on-android-nougat/en)
+## RecyclerView
+ * [from Javier González Cabezas - FullRecyclerView](https://github.com/thedeveloperworldisyours/FullRecyclerView)
