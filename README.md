@@ -102,3 +102,6 @@ Generating:
  * [another blog from Author: nuuneoi ](https://inthecheesefactory.com/blog/how-to-share-access-to-file-with-fileprovider-on-android-nougat/en)
 ## RecyclerView
  * [from Javier González Cabezas - FullRecyclerView](https://github.com/thedeveloperworldisyours/FullRecyclerView)
+ 
+## CodeStarter
+ * [Android Starters](https://androidstarters.com/) and on their [github](https://github.com/androidstarters/androidstarters.com)
