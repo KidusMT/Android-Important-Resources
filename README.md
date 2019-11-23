@@ -107,3 +107,4 @@ Generating:
  * [Android Starters](https://androidstarters.com/) and on their [github](https://github.com/androidstarters/androidstarters.com)
 ## RxJava
  * [Exploring RxJava in Android — Introduction](https://proandroiddev.com/exploring-rxjava-in-android-e52ed7ef32e2) - nice blog on medium by Anitaa Murthy
+ * [RxJava, RxAndroid Complete Beginner Course](https://www.androidhive.info/RxJava/tutorials/) by Ravi Tamada
