@@ -109,3 +109,6 @@ Generating:
 ## RxJava
  * [Exploring RxJava in Android — Introduction](https://proandroiddev.com/exploring-rxjava-in-android-e52ed7ef32e2) - nice blog on medium by Anitaa Murthy
  * [RxJava, RxAndroid Complete Beginner Course](https://www.androidhive.info/RxJava/tutorials/) by Ravi Tamada
+ 
+## Language change 
+`* [1st best blog](https://proandroiddev.com/change-language-programmatically-at-runtime-on-android-5e6bc15c758) with [github](https://github.com/YarikSOffice/LanguageTest) and [2nd best blog](https://fevziomurtekin.github.io/2018-10-21-how-to-change-app-language/) and finally [best stackoverflow answer by ](https://stackoverflow.com/questions/4985805/set-locale-programmatically)[Ricardo](https://stackoverflow.com/users/4266957/ricardo)
