@@ -112,3 +112,6 @@ Generating:
  
 ## Language change 
 `* [1st best blog](https://proandroiddev.com/change-language-programmatically-at-runtime-on-android-5e6bc15c758) with [github](https://github.com/YarikSOffice/LanguageTest) and [2nd best blog](https://fevziomurtekin.github.io/2018-10-21-how-to-change-app-language/) and finally [best stackoverflow answer by ](https://stackoverflow.com/questions/4985805/set-locale-programmatically)[Ricardo](https://stackoverflow.com/users/4266957/ricardo)
+
+## Network security policy on the Latest API with http and https issue (Cleartext HTTP traffic not permitted)
+ * [stackoverflow](https://stackoverflow.com/questions/45940861/android-8-cleartext-http-traffic-not-permitted) and a blog on [Android M and the war on cleartext traffic](https://koz.io/android-m-and-the-war-on-cleartext-traffic/) with [google code-lab](https://codelabs.developers.google.com/codelabs/android-network-security-config/index.html#0)
