@@ -115,3 +115,11 @@ Generating:
 
 ## Network security policy on the Latest API with http and https issue (Cleartext HTTP traffic not permitted)
  * [stackoverflow](https://stackoverflow.com/questions/45940861/android-8-cleartext-http-traffic-not-permitted) and a blog on [Android M and the war on cleartext traffic](https://koz.io/android-m-and-the-war-on-cleartext-traffic/) with [google code-lab](https://codelabs.developers.google.com/codelabs/android-network-security-config/index.html#0)
+ 
+ 
+## Android - TESTING
+ * [Android Documentation](https://developer.android.com/training/testing)
+ * [Tutorialspoint](https://www.tutorialspoint.com/android/android_testing.htm)
+ * [techbeacon](https://https://www.tutorialspoint.com/android/android_testing.htmhttps://www.tutorialspoint.com/android/android_testing.htm.com/app-dev-testing/android-developers-guide-mobile-testing-tools)
+ * [Vogella](vogella.com/tutorials/AndroidTesting/article.html)
+ * [guru99](https://www.guru99.com/why-android-testing.html)
