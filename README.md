@@ -110,6 +110,41 @@ Generating:
 ## RxJava
  * [Exploring RxJava in Android — Introduction](https://proandroiddev.com/exploring-rxjava-in-android-e52ed7ef32e2) - nice blog on medium by Anitaa Murthy
  * [RxJava, RxAndroid Complete Beginner Course](https://www.androidhive.info/RxJava/tutorials/) by Ravi Tamada
+ * RxJava Centralized Error handling in network [RxJava github Doc](https://github.com/ReactiveX/RxJava/wiki/Error-Handling-Operators#doonerror-example) , [stackoverflow best answer](https://stackoverflow.com/a/26201962/6021740) and [the best blog](https://androidwave.com/retrofit-globally-error-handling/) here is another [blog on medium](https://medium.com/mindorks/rxjava2-and-retrofit2-error-handling-on-a-single-place-8daf720d42d6)
+ 
+ Snippet of code from the first best blog. 
+  ```java
+   public void handleApiError(Throwable error) {
+        if (error instanceof HttpException) {
+            switch (((HttpException) error).code()) {
+                case HttpsURLConnection.HTTP_UNAUTHORIZED:
+                    mView.onError("Unauthorised User ");
+                    break;
+                case HttpsURLConnection.HTTP_FORBIDDEN:
+                    mView.onError("Forbidden");
+                    break;
+                case HttpsURLConnection.HTTP_INTERNAL_ERROR:
+                    mView.onError("Internal Server Error");
+                    break;
+                case HttpsURLConnection.HTTP_BAD_REQUEST:
+                    mView.onError("Bad Request");
+                    break;
+                case API_STATUS_CODE_LOCAL_ERROR:
+                    mView.onError("No Internet Connection");
+                    break;
+                default:
+                    mView.onError(error.getLocalizedMessage());
+            }
+        } else if (error instanceof WrapperError) {
+            mView.onError(error.getMessage());
+        } else if (error instanceof JsonSyntaxException) {
+            mView.onError("Something Went Wrong API is not responding properly!");
+        } else {
+            mView.onError(error.getMessage());
+        }
+    }
+   ```
+ 
  
 ## Language change 
 `* [1st best blog](https://proandroiddev.com/change-language-programmatically-at-runtime-on-android-5e6bc15c758) with [github](https://github.com/YarikSOffice/LanguageTest) and [2nd best blog](https://fevziomurtekin.github.io/2018-10-21-how-to-change-app-language/) and finally [best stackoverflow answer by ](https://stackoverflow.com/questions/4985805/set-locale-programmatically)[Ricardo](https://stackoverflow.com/users/4266957/ricardo)
