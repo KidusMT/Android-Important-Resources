@@ -31,6 +31,7 @@ Generating:
 ## Android Printing
  * github repos [android-printer](https://github.com/topics/android-printer)
  * Android Developers [Documentation](https://developer.android.com/training/printing)
+ * Very Common but time taking bug you might face during android N print from [stackoverflow](https://stackoverflow.com/a/43775680/6021740) and [Chinese blog](https://www.vvzixun.com/index.php/code/2361e7465889d765dbbe14c4b082585f)
 
 ## Icons for free
  * [Flaticon](https://www.flaticon.com/)
