@@ -161,6 +161,20 @@ Generating:
  * [Vogella](vogella.com/tutorials/AndroidTesting/article.html)
  * [guru99](https://www.guru99.com/why-android-testing.html)
  
+## Dynamic Form Handling 
+ * [Litho](https://fblitho.com/)
+ * stackoverflow
+   - [Dynamic Form Builder In Android](https://stackoverflow.com/questions/28984078/dynamic-form-builder-in-android)
+   - [Solution to build dynamic forms with Android](https://stackoverflow.com/questions/45061731/solution-to-build-dynamic-forms-with-android)
+   - [Approach for rendering Dynamic Forms on Android?](https://stackoverflow.com/questions/43237904/approach-for-rendering-dynamic-forms-on-android)
+ * github links:
+   - [JASONETTE-Android](https://github.com/Jasonette/JASONETTE-Android) with [website](http://jasonette.com/) and [docs](http://docs.jasonette.com/)
+   - [json2view](https://github.com/Avocarrot/json2view)
+   - [SurveyKit](https://github.com/quickbirdstudios/SurveyKit?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=7910)
+   - [FormSimpleIGB](https://github.com/LordSaac/FormSimpleIGB?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=7428)
+   - [EasyForm](https://github.com/emmasuzuki/EasyForm?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=3474)
+   - [NexusDialog](https://github.com/dkharrat/NexusDialog?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=1947)
+   - [NexusData](https://github.com/dkharrat/NexusData)
  
  
 https://codinginflow.com/
