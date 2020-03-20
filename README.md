@@ -176,5 +176,6 @@ Generating:
    - [NexusDialog](https://github.com/dkharrat/NexusDialog?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=1947)
    - [NexusData](https://github.com/dkharrat/NexusData)
    - [IBM Blog](https://developer.ibm.com/technologies/mobile/tutorials/x-andddyntut/)
+   - [a blog by veskoiliev ](https://www.veskoiliev.com/how-to-handle-dynamic-json-response-with-retrofit/)
  
 https://codinginflow.com/
