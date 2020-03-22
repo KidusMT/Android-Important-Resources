@@ -177,5 +177,6 @@ Generating:
    - [NexusData](https://github.com/dkharrat/NexusData)
    - [IBM Blog](https://developer.ibm.com/technologies/mobile/tutorials/x-andddyntut/)
    - [a blog by veskoiliev ](https://www.veskoiliev.com/how-to-handle-dynamic-json-response-with-retrofit/)
+   - [Handling dynamic key for JSON response](https://riptutorial.com/android/example/15273/handling-dynamic-key-for-json-response)
  
 https://codinginflow.com/
