@@ -180,3 +180,6 @@ Generating:
    - [Handling dynamic key for JSON response](https://riptutorial.com/android/example/15273/handling-dynamic-key-for-json-response)
  
 https://codinginflow.com/
+
+## Collapsing Toolbar
+ - [Best blog on ScrollFlags](https://medium.com/martinomburajr/android-design-collapsing-toolbar-scrollflags-e1d8a05dcb02)
