@@ -183,4 +183,4 @@ https://codinginflow.com/
 
 ## Collapsing Toolbar
  - [Best blog on ScrollFlags](https://medium.com/martinomburajr/android-design-collapsing-toolbar-scrollflags-e1d8a05dcb02)
- - [Best blog on github](http://saulmm.github.io/mastering-coordinator)
+ - [Mastering the Coordinator Layout - Blog](http://saulmm.github.io/mastering-coordinator)
