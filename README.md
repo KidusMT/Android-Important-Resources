@@ -184,3 +184,6 @@ https://codinginflow.com/
 ## Collapsing Toolbar
  - [Best blog on ScrollFlags](https://medium.com/martinomburajr/android-design-collapsing-toolbar-scrollflags-e1d8a05dcb02)
  - [Mastering the Coordinator Layout - Blog](http://saulmm.github.io/mastering-coordinator)
+ 
+## Bottom Navigation 
+ - [UX Design for Mobile: Bottom Navigation](http://babich.biz/perfect-bottom-navigation-for-mobile-app/)
