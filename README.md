@@ -187,3 +187,9 @@ https://codinginflow.com/
  
 ## Bottom Navigation 
  - [UX Design for Mobile: Bottom Navigation](http://babich.biz/perfect-bottom-navigation-for-mobile-app/)
+ 
+## Offline - First Architecture
+ - [Hasura - blog](https://hasura.io/blog/design-guide-to-offline-first-apps/)
+ - [CouchDB - Conflic Resolution](https://guide.couchdb.org/draft/conflicts.html)
+ - [Dzone - conflict resolution - blog](https://dzone.com/articles/handling-write-conflicts-server-side-in-offline-en)
+ - [](https://codete.com/blog/offline-first-application-architecture/)
