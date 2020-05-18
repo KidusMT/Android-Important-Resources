@@ -203,3 +203,7 @@ https://codinginflow.com/
  - [Main site](http://offlinefirst.org/)
  - [How to Design Offline-first Approach in a Mobile App](https://www.netguru.com/blog/how-to-design-offline-first-approach-in-mobile-app)
  - [Offline-first web and mobile apps: Top frameworks and components](https://techbeacon.com/app-dev-testing/offline-first-web-mobile-apps-top-frameworks-components)
+ 
+## ProGuard
+ - [Android's Built-in ProGuard Rules: The Missing Guide](https://www.zacsweers.dev/android-proguard-rules/)
+ - [GuardSquare](https://www.guardsquare.com/en/products/proguard/manual/introduction)
