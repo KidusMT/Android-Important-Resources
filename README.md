@@ -207,3 +207,7 @@ https://codinginflow.com/
 ## ProGuard
  - [Android's Built-in ProGuard Rules: The Missing Guide](https://www.zacsweers.dev/android-proguard-rules/)
  - [GuardSquare](https://www.guardsquare.com/en/products/proguard/manual/introduction)
+ 
+## Chrome Custom Tab
+ - [JournalDEV](https://www.journaldev.com/21723/android-chrome-custom-tabs)
+ - [Mindorks](https://blog.mindorks.com/android-browser-lets-launch-chrome-custom-tabs-with-kotlin)
