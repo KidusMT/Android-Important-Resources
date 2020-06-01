@@ -211,3 +211,4 @@ https://codinginflow.com/
 ## Chrome Custom Tab
  - [JournalDEV](https://www.journaldev.com/21723/android-chrome-custom-tabs)
  - [Mindorks](https://blog.mindorks.com/android-browser-lets-launch-chrome-custom-tabs-with-kotlin)
+ - [Youtube](https://www.youtube.com/watch?v=QOxIdbNwpx0)
