@@ -212,3 +212,7 @@ https://codinginflow.com/
  - [JournalDEV](https://www.journaldev.com/21723/android-chrome-custom-tabs)
  - [Mindorks](https://blog.mindorks.com/android-browser-lets-launch-chrome-custom-tabs-with-kotlin)
  - [Youtube](https://www.youtube.com/watch?v=QOxIdbNwpx0)
+ 
+ 
+## Change file to base64 encoding before uploading
+ - [How to convert attach file to base64 in Android? - codeplayon](http://www.codeplayon.com/2020/05/how-to-convert-attach-file-to-base64-in-android/#:~:text=How%20to%20convert%20a%20file%20to%20Base64%3F&text=Complete%20code%20for%20Converting%20File,you%20can%20convert%20into%20base64.)
