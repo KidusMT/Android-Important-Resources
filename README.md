@@ -220,3 +220,30 @@ https://codinginflow.com/
  - [original github by pedant repo but no longer maintainable](https://github.com/pedant/sweet-alert-dialog)
  - [has been forked and improved here by thomper](https://github.com/thomper/sweet-alert-dialog)
  - [very common issue regarding the library and the solution is here](https://github.com/pedant/sweet-alert-dialog/issues/162#issuecomment-414558961)
+## Color Alpha
+ - [Android: Hex transparency in colors](https://medium.com/@imstudio/android-hex-transparency-in-colors-722919b0f728)
+ >> Here’s a correct table of percentages to hex values. E.g. for 50% white you’d use #80FFFFFF. 
+ ```xml
+   100% — FF
+   95% — F2
+   90% — E6
+   85% — D9
+   80% — CC
+   75% — BF
+   70% — B3
+   65% — A6
+   60% — 99
+   55% — 8C
+   50% — 80
+   45% — 73
+   40% — 66
+   35% — 59
+   30% — 4D
+   25% — 40
+   20% — 33
+   15% — 26
+   10% — 1A
+   5% — 0D
+   0% — 00 
+  ```
+ 
