@@ -1,6 +1,6 @@
 <p align="center">
     <img src="icon-android-material-design-512.png" width="150" />
-    <h2 align="center"> Important Android Open-Source Resources and Blogsp </h2>
+    <h2 align="center"> Important Android Open-Source Resources and Blogs </h2>
     <p align="center"> Best android materials link and resource websites and repos. </p>
 </p>
 
