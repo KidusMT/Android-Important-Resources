@@ -24,6 +24,9 @@ Generating:
 ## PNG to SVG
  * [website](https://www.pngtosvg.com/)
  
+## Circular Image View
+ * [The best trick](https://github.com/hdodenhof/CircleImageView/issues/267#issuecomment-401334173)
+ 
 ## Architectures 
  MVP:
   * Mindork: [Github](https://github.com/MindorksOpenSource/android-mvp-architecture) and [Website](https://mindorks.com/)
