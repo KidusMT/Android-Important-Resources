@@ -256,3 +256,4 @@ https://codinginflow.com/
  ## In App Purchase - IAP
   - [raywenderlich - In-App Purchase Tutorial: Getting Started](https://www.raywenderlich.com/5456-in-app-purchase-tutorial-getting-started)
   - [MindOrks Blog by Himanshu Singh](https://blog.mindorks.com/implement-in-app-purchases-in-android)
+  - [Google Codelabs](https://developer.android.com/codelabs/play-billing-scalable-kotlin#0)
