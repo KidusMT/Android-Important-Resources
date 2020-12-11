@@ -5,6 +5,8 @@
 </p>
 
 
+## Image color(hex) lighter website:
+  * [pinetools](https://pinetools.com/lighten-color)
 ## QR CODE
 Scanning:
   * https://demonuts.com/scan-barcode-qrcode/
