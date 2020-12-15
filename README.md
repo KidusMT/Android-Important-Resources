@@ -88,6 +88,7 @@ Generating:
  * handling custome error types on response: [woolha](https://www.woolha.com/tutorials/android-retrofit-2-custom-error-response-handling) - has a neat way of handling this issue
  * [FAST ANDROID NETWORKING](https://github.com/amitshekhariitbhu/Fast-Android-Networking) from [AMIT SHEKHAR](https://github.com/amitshekhariitbhu) co-founder of [Mindorks](https://mindorks.com)
  * [Volley](https://developer.android.com/training/volley) from google. their [Github](https://github.com/google/volley)
+ * if you want [`Scalars Converter for Plain Strings`](https://futurestud.io/tutorials/retrofit-2-receive-plain-string-responses)
 
 ## TIPS ON UI/UX DESIGN - BY [Nick Babich](https://www.smashingmagazine.com/author/nickbabich/) 
  * [A Comprehensive Guide To Mobile App Design](https://www.smashingmagazine.com/2018/02/comprehensive-guide-to-mobile-app-design/)
